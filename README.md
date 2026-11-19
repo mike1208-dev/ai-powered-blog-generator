@@ -1,0 +1,3 @@
+### AI-Powered Blog Generator with Bedrock and Streamlit
+
+Developed an advanced AI-Powered Blog Chatbot Generator using Llama 3 8B and AWS Bedrock services with Streamlit. Implemented Retrieval Augmented Generation (RAG) for dynamic fine-tuning on updated datasets, enabling the creation of highly realistic AI-generated blog content. The chatbot offers a seamless experience for generating and managing blog posts, integrating with CMS for automated content creation, editing, and publishing. This solution significantly enhances content marketing strategies and improves engagement by delivering high-quality, relevant blog content.
